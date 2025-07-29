@@ -9,6 +9,6 @@
 <li>Images Embedded</li>
 
 <h2>Installation</h2>
-<p>No installion necessary</p>
+<p>No installation necessary.</p>
 </ul>
     
